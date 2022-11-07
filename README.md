@@ -39,6 +39,7 @@ Give a ⭐️ if you like this project!
 
 - Thanks to the Microverse team for the motivation and the learning tools
 - Thanks to the Code Reviewer(s) 
+- And the youtube for research
 
 ## 📝 License
 
