@@ -1,11 +1,5 @@
 # Awesome-Books-ES6![](https://img.shields.io/badge/Microverse-blueviolet)
-- Use ES6 modules to write modular JavaScript.
-- Learn how to use proper ES6 syntax.
-- Understand improvements that ES6 brings to JavaScript.
-- Use npm as a software packages system.
-- Correct GitHub Flow
-- Correct documentation
-
+This is the second module project microverse week two.
 ## Built With
 
 - HTML
