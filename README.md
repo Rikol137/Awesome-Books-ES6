@@ -15,7 +15,7 @@ An editor : VS code.
 
 ### Setup
 Clone this repository by using the command line : 
-`git clone https:https://github.com/Rikol137/Awesome-Books-ES6/pull/1
+`git clone https://github.com/Rikol137/Awesome-Books-ES6'
 
 ## Authors
 
@@ -37,7 +37,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Learning to code is learning to create and innovate
+- Thanks to the Microverse team for the motivation and the learning tools
+- Thanks to the Code Reviewer(s) 
 
 ## 📝 License
 
