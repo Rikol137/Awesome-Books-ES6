@@ -16,9 +16,9 @@ Awesome-Books-ES6
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-Do-Project <a name="about-project"></a>
+# 📖 Awesome-Books-ES6/ <a name="about-project"></a>
 
-**To-Do-Project** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
+**Awesome-Books-ES6/** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -30,7 +30,7 @@ Awesome-Books-ES6
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://example.com)
+- [Live Demo Link](https://rikol137.github.io/Awesome-Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
